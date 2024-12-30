@@ -1,0 +1,4 @@
+# ignore .docx files
+*.docx
+.vscode/
+output/

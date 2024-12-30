@@ -1,0 +1,34 @@
+# TH1: Văn bản dữ liệu nhỏ, độ dịch k nhỏ
+
+"Hello, World!"
+5
+
+# TH2: Văn bản gốc trống
+
+""
+6
+
+# TH3: Văn bản gốc chỉ chứa một ký tự trắng
+
+" "
+5
+
+# TH4: Độ dịch k âm
+
+"Technology drives innovation, connecting people worldwide and transforming everyday life."
+-5
+
+# TH5: Số k quá lớn
+
+"By 2025, the number of connected devices is expected to exceed 75 billion. This rapid growth highlights the importance of 5G technology in supporting global connectivity."
+10000
+
+# TH6: Văn bản gốc chứa dữ liệu lớn
+
+"Technology has dramatically transformed our lives in recent years, impacting every aspect of society from communication to healthcare. The advent of artificial intelligence (AI), for instance, is reshaping industries, making processes faster and more efficient. In fields like healthcare, AI is being used to analyze medical data, predict patient outcomes, and even assist in surgeries. Similarly, the rise of 5G networks is opening up new possibilities for faster internet speeds, enabling innovations like smart cities, autonomous vehicles, and the Internet of Things (IoT). These advancements not only improve productivity but also create new challenges, such as the need for stronger cybersecurity and data privacy measures. As we continue to rely on technology for daily tasks, it is crucial to consider its ethical implications and ensure it is developed and used responsibly. The future of technology holds endless possibilities, and with proper management, it has the potential to solve some of the world's most pressing problems."
+10
+
+# TH7: Văn bản chứa ký tự đặc biệt và ký tự điều khiển
+
+"@#&^%$!\n<>|}{[];:,.?/\_+=—\t$%^&*\n\t~!@#\n<>;:,.|}{][=—+\n\t&^%$#@!`<>/\n\t_+=—|}{[];:,.?^%$@~\n\t|}{[]<>,.;+=\n—_+!@#$%^&\t\n"
+15
