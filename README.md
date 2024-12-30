@@ -31,9 +31,9 @@ Chương trình được lập trình bằng ngôn ngữ ***C++***
 
 ## Cài đặt
 ### 1. Clone repository về máy của bạn:
-Mở terminal (hoặc Git Bash) và nhập lệnh sau: git clone https://github.com/nghnam04/Project-I.git
+Mở terminal (hoặc Git Bash) và nhập lệnh sau: (```git clone https://github.com/nghnam04/Project-I.git)**
 ### 2.Biên dịch và chạy chương trình:
-Sau khi clone xong, bạn cần biên dịch mã nguồn để tạo tệp thực thi. Sử dụng trình biên dịch C++ như g++ để biên dịch chương trình. Trong terminal, di chuyển đến thư mục chứa mã nguồn và chạy lệnh sau:
+Sau khi clone xong, bạn cần biên dịch mã nguồn để tạo tệp thực thi. Sử dụng trình biên dịch C++ như g++ để biên dịch chương trình. Trong terminal, di chuyển đến thư mục chứa mã nguồn và chạy lệnh sau: g++ -o project1 project1.cpp
 ### 3.Chạy chương trình:
 Sau khi biên dịch thành công, bạn có thể chạy chương trình với lệnh sau: ./project1
 
