@@ -30,12 +30,15 @@ Chương trình được lập trình bằng ngôn ngữ ***C++***
     - Quy trình giải mã là ngược lại với mã hóa. Chuỗi mã hóa được chuyển lại thành ký tự XOR ban đầu, sau đó sử dụng khóa đã lưu để giải mã và phục hồi văn bản ban đầu.
 
 ## Cài đặt
+```markdown
 ### 1. Clone repository về máy của bạn:
-Mở terminal (hoặc Git Bash) và nhập lệnh sau: (```git clone https://github.com/nghnam04/Project-I.git)**
+Mở terminal (hoặc Git Bash) và nhập lệnh sau:
+```bash
+git clone https://github.com/nghnam04/Project-I.git
 ### 2.Biên dịch và chạy chương trình:
-Sau khi clone xong, bạn cần biên dịch mã nguồn để tạo tệp thực thi. Sử dụng trình biên dịch C++ như g++ để biên dịch chương trình. Trong terminal, di chuyển đến thư mục chứa mã nguồn và chạy lệnh sau: g++ -o project1 project1.cpp
+Sau khi clone xong, bạn cần biên dịch mã nguồn để tạo tệp thực thi. Sử dụng trình biên dịch C++ như g++ để biên dịch chương trình. Trong terminal, di chuyển đến thư mục chứa mã nguồn và chạy lệnh sau: ```g++ -o project1 project1.cpp```
 ### 3.Chạy chương trình:
-Sau khi biên dịch thành công, bạn có thể chạy chương trình với lệnh sau: ./project1
+Sau khi biên dịch thành công, bạn có thể chạy chương trình với lệnh sau: ```./project1```
 
 ## Yêu cầu
 Trình biên dịch C++ (ví dụ: GCC, Clang, hoặc MSVC)
