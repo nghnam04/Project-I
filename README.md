@@ -55,7 +55,7 @@ Kiến thức cơ bản về các phép toán XOR và xử lý chuỗi trong C++
 ## Tài liệu tham khảo
 Phương pháp mã hóa XOR.
 ASCII Table: [](https://www.asciitable.com)
-
+---
 Mọi đóng góp và thắc mắc xin liên hệ:
 - _Email: nam.nh225213@sis.hust.edu.vn_
 - _Điện thoại: 0904262833_
